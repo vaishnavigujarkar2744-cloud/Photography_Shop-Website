@@ -1,0 +1,1 @@
+<?php $_GET['id']=0; require 'product_form.php'; ?>
